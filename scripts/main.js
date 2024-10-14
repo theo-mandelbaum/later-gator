@@ -37,14 +37,14 @@ input.addEventListener("keydown", (ev) => {
 // see you later, alligator
 
 //
-const setOutput = (target, valediction) => {
-  console.log("setOutput", target, valediction);
+const setOutput = (result) => {
+  console.log("setOutput", result);
   // TODO see comments just above 🙄
 };
 
 // for Part 2
 // change the code so that rather than directly requesting a valediction with the user's input,
-// the page instead queries for matching targets using the provided option() function 
+// the page instead queries for matching targets using the provided options() function 
 // (if the user hasn't entered anything, simply exclude the query argument in your invocation to options).
 // add each of the resulting target options as buttons in list items in the ul.
 // when any of these buttons are clicked, user the later() function to request the corresponding valediction and update the output element as in Part 1
