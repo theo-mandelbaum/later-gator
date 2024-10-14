@@ -22,9 +22,9 @@ Make a little web app that has 2 user interface elements (these are actually pro
     1. the text they've entered is used to search for a possible [valediction](https://en.wikipedia.org/wiki/Valediction), and 
     1. that found valediction is displayed in the output element.
 
-See it in action 🎬:
+See Part 1 in action 🎬:
 
-[![later gator demo](https://img.youtube.com/vi/WH2TbnkirpQ/0.jpg)](https://www.youtube.com/watch?v=WH2TbnkirpQ)
+[![Later Gator Part 1 Demo](https://img.youtube.com/vi/WH2TbnkirpQ/0.jpg)](https://www.youtube.com/watch?v=WH2TbnkirpQ)
 
 ### Part 2
 
@@ -33,6 +33,10 @@ See it in action 🎬:
 1. when one of the buttons is clicked, 
 1. the valediction target displayed on the button is used to query for the corresponding valediction (similar to what you had in Part 1), which
 1. finally is displayed in the output element.
+
+See Part 2 in action 🎬:
+
+[![Later Gator Part 2 Demo](https://img.youtube.com/vi/FF1_PvtUQtI/0.jpg)](https://youtube.com/shorts/FF1_PvtUQtI)
 
 ## Process
 
